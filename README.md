@@ -1,5 +1,5 @@
 # hs_postgis
-A datbase for Hydroshare based on official images.
+A database for Hydroshare based on official images.
 
 1. Open port 5432 on the host's firewall to the subnets making connections.
 1. `docker-compose up -d`
